@@ -1,0 +1,2 @@
+2023-11-30T06:38:55+00:00 CRITICAL Out of memory (allocated 245366784) (tried to allocate 40960 bytes) in C:\xampp\htdocs\finom.vn\wp-content\plugins\elementor\includes\base\widget-base.php on line 183
+

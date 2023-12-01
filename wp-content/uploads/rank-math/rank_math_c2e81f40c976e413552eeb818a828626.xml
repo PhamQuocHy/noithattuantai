@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="//localhost/finom.vn/main-sitemap.xsl"?>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+	<sitemap>
+		<loc>http://localhost/finom.vn/post-sitemap.xml</loc>
+		<lastmod>2023-11-27T09:08:52+00:00</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>http://localhost/finom.vn/page-sitemap.xml</loc>
+		<lastmod>2023-11-30T07:35:29+00:00</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>http://localhost/finom.vn/category-sitemap.xml</loc>
+		<lastmod>2023-11-27T09:08:52+00:00</lastmod>
+	</sitemap>
+</sitemapindex>

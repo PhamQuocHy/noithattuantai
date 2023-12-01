@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="//localhost/finom.vn/main-sitemap.xsl"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+	<url>
+		<loc>http://localhost/finom.vn/category/uncategorized/</loc>
+		<lastmod>2023-11-21T01:25:08+00:00</lastmod>
+	</url>
+	<url>
+		<loc>http://localhost/finom.vn/category/danh-muc-san-pham-index/</loc>
+		<lastmod>2023-11-23T01:55:49+00:00</lastmod>
+	</url>
+	<url>
+		<loc>http://localhost/finom.vn/category/du-an-tieu-bieu/</loc>
+		<lastmod>2023-11-24T02:48:34+00:00</lastmod>
+	</url>
+	<url>
+		<loc>http://localhost/finom.vn/category/ho-so-nang-luc/</loc>
+		<lastmod>2023-11-27T09:08:52+00:00</lastmod>
+	</url>
+</urlset>
